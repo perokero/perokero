@@ -15,8 +15,8 @@ My name is Nadiia. I'm a Junior QA Engineer. I have earned my Bachelor's degree 
   - [Bag reports](https://www.example.com)
 - Postman collection
   - [Текст ссылки](https://www.example.com)
-- SQL requests
-  - [Текст ссылки](https://www.example.com)
+- SQL Queries
+  - [MySQL Queries](https://github.com/perokero/sql-requests)
 
 ## Skills
 <table>
