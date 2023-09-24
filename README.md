@@ -18,7 +18,7 @@ My name is Nadiia. I'm a Junior QA Engineer. I have earned my Bachelor's degree 
 - SQL requests
   - [Текст ссылки](https://www.example.com)
 
-## My experience
+## Skills
 <table>
     <tr>
         <th>Programming</th>
@@ -42,10 +42,19 @@ My name is Nadiia. I'm a Junior QA Engineer. I have earned my Bachelor's degree 
     </tr>
     <tr>
       <td>Selenium</td>
-    </tr>
-    <tr>
+      <td></td>
       <td>Jira</td>
     </tr>
+  <tr>
+      <td>HTML+CSS</td>
+      <td></td>
+      <td></td>
+    </tr>
+  <tr>
+    <td>JavaScript</td>
+      <td></td>
+      <td></td>
+  </tr>
 </table>
 
 
