@@ -13,8 +13,8 @@ My name is Nadiia. I'm a Junior QA Engineer. I have earned my Bachelor's degree 
   - [Test cases](https://www.example.com)
   - [Mind maps](https://www.example.com)
   - [Bag reports](https://www.example.com)
-- Postman collection
-  - [Текст ссылки](https://www.example.com)
+- Postman collections
+  - [Postman collections](https://github.com/perokero/postman-collection)
 - SQL Queries
   - [MySQL Queries](https://github.com/perokero/sql-queries)
 
