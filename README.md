@@ -16,6 +16,14 @@ My name is Nadiia. I'm a Junior QA Engineer. I have earned my Bachelor's degree 
   - [Postman collections](https://github.com/perokero/postman-collection)
 - SQL Queries
   - [MySQL Queries](https://github.com/perokero/sql-queries)
+- Test Automation
+  - [Web browser automation](https://github.com/perokero/sql-queries)
+  - [Mobile Automation](https://github.com/perokero/sql-queries)
+  - [Visual Automation](https://github.com/perokero/sql-queries)
+  - [API Automation](https://github.com/perokero/sql-queries)
+  - [BDD Specification Automation](https://github.com/perokero/sql-queries)
+  - [Accessibility Automation](https://github.com/perokero/sql-queries)
+
 
 ## Skills
 <table>
