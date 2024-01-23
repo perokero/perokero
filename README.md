@@ -17,10 +17,10 @@ My name is Nadiia. I'm a Junior QA Engineer. I have earned my Bachelor's degree 
 - SQL Queries
   - [MySQL Queries](https://github.com/perokero/sql-queries)
 - Test Automation
-  - [Web browser automation](https://github.com/perokero/sql-queries)
+  - [Web browser automation](https://github.com/perokero/booking-testing)
+  - [API Automation](https://github.com/perokero/sql-queries)
   - [Mobile Automation](https://github.com/perokero/sql-queries)
   - [Visual Automation](https://github.com/perokero/sql-queries)
-  - [API Automation](https://github.com/perokero/sql-queries)
   - [BDD Specification Automation](https://github.com/perokero/sql-queries)
   - [Accessibility Automation](https://github.com/perokero/sql-queries)
 
@@ -28,9 +28,9 @@ My name is Nadiia. I'm a Junior QA Engineer. I have earned my Bachelor's degree 
 ## Skills
 <table>
     <tr>
-        <th>Programming</th>
+        <th>Programming languages</th>
         <th>Languages</th>
-        <th>Other</th>
+        <th>Other technologies</th>
     </tr>
     <tr>
         <td>Java</td>
@@ -44,23 +44,28 @@ My name is Nadiia. I'm a Junior QA Engineer. I have earned my Bachelor's degree 
     </tr>
     <tr>
       <td>Matlab</td>
-      <td>German (B1)</td>
+      <td>German (B2)</td>
       <td>Postman</td>
-    </tr>
-    <tr>
-      <td>Selenium</td>
-      <td></td>
-      <td>Jira</td>
-    </tr>
-  <tr>
-      <td>HTML+CSS</td>
-      <td></td>
-      <td></td>
     </tr>
   <tr>
     <td>JavaScript</td>
       <td></td>
+      <td>HTML+CSS3</td>
+  </tr>
+   <tr>
+    <td>SQL (MSSql, PostgreSQL, SQLite)</td>
       <td></td>
+      <td>Selenium</td>
+  </tr>
+     <tr>
+    <td></td>
+      <td></td>
+      <td>TestNG</td>
+  </tr>
+  <tr>
+    <td></td>
+      <td></td>
+      <td>Rest Assured</td>
   </tr>
 </table>
 
