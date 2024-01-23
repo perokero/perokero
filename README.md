@@ -10,7 +10,7 @@ My name is Nadiia. I'm a Junior QA Engineer. I have earned my Bachelor's degree 
 ## Portfolio
 - Test documentation
   - [Checklists](https://docs.google.com/spreadsheets/d/1pmhNs3YsoGhuFxqfn5KolrKxYtpmhNz996ZkG_M1Rw0/edit?usp=sharing)
-  - [Test cases](https://docs.google.com/spreadsheets/d/1y3Vfc8kwZoGkoEU3ppfatv2vZTB2PNKL/edit?usp=sharing&ouid=111203471177586044121&rtpof=true&sd=true)
+  - [Test cases](https://docs.google.com/spreadsheets/d/1MqnrSgMz2wFfbed3q2c0ELr1FNYOSncEY1zqlIZw-Sw/edit?usp=sharing)
   - [Bag reports](https://docs.google.com/spreadsheets/d/1BDSA5ef43PLJKayWuwyVMzW7myOUpqKsM3AitTtALgQ/edit?usp=sharing)
 - Postman collections
   - [Postman collections](https://github.com/perokero/postman-collection)
