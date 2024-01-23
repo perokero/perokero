@@ -12,18 +12,14 @@ My name is Nadiia. I'm a Junior QA Engineer. I have earned my Bachelor's degree 
   - [Checklists](https://docs.google.com/spreadsheets/d/1pmhNs3YsoGhuFxqfn5KolrKxYtpmhNz996ZkG_M1Rw0/edit?usp=sharing)
   - [Test cases](https://docs.google.com/spreadsheets/d/1MqnrSgMz2wFfbed3q2c0ELr1FNYOSncEY1zqlIZw-Sw/edit?usp=sharing)
   - [Bug reports](https://docs.google.com/spreadsheets/d/1BDSA5ef43PLJKayWuwyVMzW7myOUpqKsM3AitTtALgQ/edit?usp=sharing)
+- Test Automation
+  - [Web browser automation](https://github.com/perokero/booking-testing)
+  - [API Automation](https://github.com/perokero/booking-testing-api.git)
+  - [Mobile Automation]()
 - Postman collections
   - [Postman collections](https://github.com/perokero/postman-collection)
 - SQL Queries
   - [MySQL Queries](https://github.com/perokero/sql-queries)
-- Test Automation
-  - [Web browser automation](https://github.com/perokero/booking-testing)
-  - [API Automation](https://github.com/perokero/sql-queries)
-  - [Mobile Automation](https://github.com/perokero/sql-queries)
-  - [Visual Automation](https://github.com/perokero/sql-queries)
-  - [BDD Specification Automation](https://github.com/perokero/sql-queries)
-  - [Accessibility Automation](https://github.com/perokero/sql-queries)
-
 
 ## Skills
 <table>
